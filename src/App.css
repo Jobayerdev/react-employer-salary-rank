@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #cfdefa;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100vw;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	height: 95vh;
+	width: 90vw;
+	background-color: white;
+}
